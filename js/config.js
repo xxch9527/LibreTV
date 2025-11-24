@@ -26,6 +26,9 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风',
+        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
