@@ -26,7 +26,32 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    }
+    },
+    baofengSource: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风',
+        adult: false
+    },
+    liangziSource: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '量子',
+        adult: false
+    },
+    ikunSource: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'ikun',
+        adult: false
+    },
+    taohuaSource: {
+        api: 'https://thzy1.me/api.php/provide/vod',
+        name: '桃花',
+        adult: true
+    },
+    senlinSource: {
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: '森林',
+        adult: true
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
